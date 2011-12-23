@@ -1,8 +1,8 @@
-## About
+### About
 
 Basic PHP Beanstream API wrapper that supports most of the API operations. Supports basic transactions and Beanstream profile transactions.
 
-## Example Usages
+### Example Usage
 
     // Create a credit card object
     $card = new BeanstreamCard();
